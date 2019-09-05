@@ -1,0 +1,16 @@
+{
+	"initial": [
+		"js/egret.min.js",
+		"js/egret.web.min.js",
+		"js/eui.min.js",
+		"js/tween.min.js",
+		"js/assetsmanager.min.js",
+		"js/egret3d.min.js",
+		"js/oimo.min.js",
+		"js/promise.min.js"
+	],
+	"game": [
+		"js/default.thm.min.js",
+		"js/main.min.js"
+	]
+}
